@@ -1,6 +1,6 @@
 function toggleMode() {
   const html = document.documentElement
-  html.classlist.toggle("light")
+  html.classlist.toggleMode("light")
 
   const img = document.querySelector("#profile img")
   if (html.classList.contains("light")) {
