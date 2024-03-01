@@ -20,7 +20,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src="https://solutis.com.br/wp-content/uploads/2020/12/dev-carreira.jpg" width="60%">
 </p>
 
 ## 🚀 Tecnologias
